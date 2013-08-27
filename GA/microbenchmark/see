@@ -1,0 +1,24 @@
+0: Array Handle=-1000 Name:'Coefs' Data Type:integer
+0: Array Dimensions:100x100x100x32
+0: Process=0	 owns array section: [0:99,0:99,0:24,0:31] 
+0: Process=1	 owns array section: [0:99,0:99,25:49,0:31] 
+0: Process=2	 owns array section: [0:99,0:99,50:74,0:31] 
+0: Process=3	 owns array section: [0:99,0:99,75:99,0:31] 
+0: done
+1: done
+2: done
+3: done
+0: Array Handle=-1000 Name:'Coefs' Data Type:integer
+0: Array Dimensions:100x100x100x32
+0: Process=0	 owns array section: [0:99,0:99,0:24,0:31] 
+0: Process=1	 owns array section: [0:99,0:99,25:49,0:31] 
+0: Process=2	 owns array section: [0:99,0:99,50:74,0:31] 
+0: Process=3	 owns array section: [0:99,0:99,75:99,0:31] 
+1: 1: low[k]=25 high[k]=49
+1: unequal count=0
+2: 2: low[k]=50 high[k]=74
+2: unequal count=0
+0: 0: low[k]=0 high[k]=24
+0: unequal count=0
+3: 3: low[k]=75 high[k]=99
+3: unequal count=0
